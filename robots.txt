@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cris-entrelinhas.github.io/entrelinhas/sitemap.xml
+Sitemap: https://cris-entrelinhas.github.io/sitemap.xml
