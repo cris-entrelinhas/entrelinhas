@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cris-entrelinhas.github.io/entrelinhas/sitemap.xml
